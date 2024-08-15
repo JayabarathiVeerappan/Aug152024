@@ -32,6 +32,9 @@ public class JayaCodes {
 		System.out.println("Work done by Dev");
 		System.out.println("Dev work completed");
 
+		System.out.println("Work done by QA");
+		System.out.println("QA work completed");
+
 		
 	}
 }
